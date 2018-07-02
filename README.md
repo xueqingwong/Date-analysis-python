@@ -1,2 +1,5 @@
 # Date_analysis_python
-Some date analysis results by python, it contains US bikeshare data exploring, tmdb-movies data analysis, analyze_ab_test_results and so on.
+Some date analysis results by python, it contains:
+1,US bikeshare data exploring;
+2,tmdb-movies data analysis;
+3,analyze_ab_test_results and so on.
